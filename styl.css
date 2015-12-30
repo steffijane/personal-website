@@ -31,7 +31,19 @@ div.my-black{
       clear: both;
    }
 
-  
+   .nyc{display:block;
+      height: 400px;
+      width: 100%;
+      margin-left:auto;
+      margin-right:auto;
+      clear:both;
+   }
+  .comp{ display: block;
+   height: 400px;
+   width: 100%;
+   margin-left:auto;
+   margin-right:auto;
+   clear:both;}
 
 
    /* This style will apply to all four elements */
@@ -60,10 +72,47 @@ h1 {
       text-align: center;
    }
 
-   
+   .location 
+   {
+         display: block;
+    font-size: 40px;
+    margin: 0 auto;
+   }
+    .content{
+      clear: both;
+    }
 
-   
+   .email{ 
+      display: block;
+      font-size: 40px;
+      margin: 0 auto;
+   }
 
+   .project{
+      display:block;
+      font-size: 40px;
+      margin: 15px auto;
+
+   }
+
+   .lingerie-text { 
+      display:block;
+      width: 58%;
+      margin: 0 auto;
+
+   }
+
+   .lingerie{ 
+   }
+
+
+
+
+   .newspaper {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+}
 li a {
     display: block;
     color: #000;

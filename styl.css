@@ -1,0 +1,73 @@
+div.my-black{
+	text-decoration: underline;
+}
+
+   .my-black {
+   		color: black;
+   		text-align: center;
+   }
+
+   #second-div {
+   		color:green;
+   }
+
+   .x2{
+   		font-size: 2em;
+   }
+
+   .x3 {
+   		font-size: 3em;
+   }
+
+   .centered-40 {
+
+   }
+
+   /* This style will apply to all four elements */
+   h4 {
+   		background-image: url ("bridge.jpg") no-repeat center center fixed;
+   }
+
+   h3 {
+   		font-family: "Times New Roman", serif, xyz;
+   		color: white;
+   		font-size: 20px;
+
+   		}
+   	h1 {
+   		font-family: "lucida Calligraphy", serif, xyz;
+   		color: white;
+   		font-size: 50px;
+   	}
+   	h2 { 
+   		font-family: "lucida Calligraphy", serif, xyz;
+   		color: white;
+   		font-size: 20px;
+   	}
+
+   	ul{
+   		clear: both;
+   	}
+
+   	ul li {
+   		display: inline;
+   		float:left;
+   		color:white;
+   	}
+
+   	ul li a{
+   		color: white;
+   	}
+
+
+
+
+
+
+
+
+
+
+
+
+   }
